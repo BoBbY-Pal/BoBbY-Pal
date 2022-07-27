@@ -14,11 +14,11 @@
 
 - 📄 Know about my experiences [[Resume](https://drive.google.com/file/d/1QrG_ezduBNwOGpP_wBU-m9Uv7Er3eZFU/view?usp=sharing)]
 
-- ⚡ Fun fact **I completed my schooling in the age of just 16 ⌛**
+- ⚡ Fun fact **I completed my schooling at the age of just 16 ⌛**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/https://www.facebook.com/bobbypal420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/bobbypal420" height="30" width="40" /></a>
+<a href="https://fb.com/bobbypal420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/bobbypal420" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bobby-pal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bobby pal" height="30" width="40" /></a> 
 <a href="https://instagram.com/royal._.pal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="royal._.pal" height="30" width="40" /></a> 
 <a href="https://discord.gg/5rrnp253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="BoBbY#5333" height="30" width="40" /></a>
