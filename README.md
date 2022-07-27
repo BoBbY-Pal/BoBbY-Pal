@@ -1,4 +1,4 @@
-[![MasterHead](https://www.tp.edu.sg/content/dam/tp-web/images/schools---courses/for-prospective-students/all-academic-schools/school-of-informatics---it/game-design---development/immersive-media-n-game-development-banner.png)]
+![MasterHead](https://www.tp.edu.sg/content/dam/tp-web/images/schools---courses/for-prospective-students/all-academic-schools/school-of-informatics---it/game-design---development/immersive-media-n-game-development-banner.png)
 <h1 align="center">Hi 👋, I'm BoBbY pal</h1>
 <h3 align="center">A passionate Game Developer/Programmer from India</h3>
 
