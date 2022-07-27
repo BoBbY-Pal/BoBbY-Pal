@@ -1,6 +1,6 @@
 ![MasterHead](https://www.tp.edu.sg/content/dam/tp-web/images/schools---courses/for-prospective-students/all-academic-schools/school-of-informatics---it/game-design---development/immersive-media-n-game-development-banner.png)
-<h1 align="center">Hi 👋, I'm BoBbY pal</h1>
-<h3 align="center">A passionate Game Developer/Programmer from India</h3>
+<h1 align="center">Hi 👋, I'm BoBbY Pal</h1>
+<h3 align="center">A passionate Game Developer / Programmer from Delhi, India </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bobby-pal&label=Profile%20views&color=0e75b6&style=flat" alt="bobby-pal" /> </p>
 
@@ -18,8 +18,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/bobby-pal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bobby pal" height="30" width="40" /></a>
-<a href="https://instagram.com/royal._.pal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="royal._.pal" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/bobbypal420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/bobbypal420" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bobby-pal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bobby pal" height="30" width="40" /></a> 
+<a href="https://instagram.com/royal._.pal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="royal._.pal" height="30" width="40" /></a> 
 <a href="https://discord.gg/5rrnp253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="BoBbY#5333" height="30" width="40" /></a>
 </p>
 
