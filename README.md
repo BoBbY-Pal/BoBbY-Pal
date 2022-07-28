@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [[Resume](https://drive.google.com/file/d/1QrG_ezduBNwOGpP_wBU-m9Uv7Er3eZFU/view?usp=sharing)]
 
-- ⚡ Fun fact **I was a two times LAN Gaming winner in my college**
+- ⚡ Fun fact **I was a two times LAN Gaming winner in my college 🏆**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
