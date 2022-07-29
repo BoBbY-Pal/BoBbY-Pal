@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bobby-pal&label=Profile%20views&color=0e75b6&style=flat" alt="bobby-pal" /> </p>
 
-- 🔭 I’m currently working on [XYZ](https://github.com/BoBbY-Pal?tab=repositories)
+- 🔭 I’m currently working on [Clash royale chest system](https://github.com/BoBbY-Pal/Clash-Royale-Chest-System)
 
 - 👨‍💻 All of my projects are available at [bobbypal.games](bobbypal.games)
 
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **officialbobby0001@gmail.com**
 
-- 📄 Know about my experiences [[Resume](https://drive.google.com/file/d/1QrG_ezduBNwOGpP_wBU-m9Uv7Er3eZFU/view?usp=sharing)]
+- 📄 Know about my experiences [[Resume](https://drive.google.com/file/d/1apj8qitIbHtezYBgIc9tfUcduaDPUFs5/view?usp=sharing)]
 
 - ⚡ Fun fact **I was a two times LAN Gaming winner in my college 🏆**
 
