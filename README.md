@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bobby-pal&label=Profile%20views&color=0e75b6&style=flat" alt="bobby-pal" /> </p>
 
-- 🔭 I’m currently working on [BomberMan-3D] (https://github.com/BoBbY-Pal/BOMBERMAN-3D)
+- 🔭 I’m currently working on [BomberMan-3D](https://github.com/BoBbY-Pal/BOMBERMAN-3D)
 
 - 👨‍💻 All of my projects are available at [bobbypal.games](bobbypal.games)
 
