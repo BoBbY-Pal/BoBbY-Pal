@@ -16,9 +16,9 @@
 
 - ⚡ Fun fact I was a two times **LAN Gaming** winner in my college 🏆
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Socials:</h3>
 <p align="left">
-<a href="https://replit.com/@BoBbYPal" target="blank"><img align="center" src="https://avatars3.githubusercontent.com/u/983194?s=280&v=4" alt="https://replit.com/@BoBbYPal" height="30" width="40" /></a>
+<a href="https://replit.com/@BoBbYPal" target="blank"><img align="center" src="https://cdn-1.webcatalog.io/catalog/replit/replit-icon-filled.png" alt="https://replit.com/@BoBbYPal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bobby-pal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bobby pal" height="30" width="40" /></a> 
 <a href="https://instagram.com/royal._.pal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="royal._.pal" height="30" width="40" /></a> 
 <a href="https://discord.gg/5rrnp253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="BoBbY#5333" height="30" width="40" /></a>
