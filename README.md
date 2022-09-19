@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [bobbypal.games](bobbypal.games)
 
-- 💬 Ask me about **C++, Unity, Data Structures**
+- 💬 Ask me about **C++, Unity, Data Structures, Design Patterns**
 
 - 📫 How to reach me **officialbobby0001@gmail.com**
 
