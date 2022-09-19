@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **officialbobby0001@gmail.com**
 
-- 📄 Know about my experiences [[Resume](https://drive.google.com/file/d/1GuelInpUf5iMJbF8Qv4SCVdaemUnDWJh/view?usp=sharing)]
+- 📄 Know about my experiences http://bobbypal.games
 
 - ⚡ Fun fact I was a two times **LAN Gaming** winner in my college 🏆
 
